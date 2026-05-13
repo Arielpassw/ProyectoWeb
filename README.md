@@ -202,6 +202,26 @@ dist/
 
 ---
 
+---
+
+# Evidencia
+
+- Módulo Registro
+  
+  <div align="center"> <img width="580" src="https://github.com/user-attachments/assets/27b72792-cccc-409a-b976-815e22cb9fc9" />
+
+  <div align="center"> <img width="500" src="https://github.com/user-attachments/assets/52df9a40-cdba-4a3c-b130-1ebfeb2dc531" />
+   
+- Módulo Login
+
+  <div align="center"> <img width="580" src="https://github.com/user-attachments/assets/535766b7-fae8-4e46-8b97-e6141c4cf1cb" /> </div>
+  
+- Autentificación
+
+<div align="center"> <img width="900" src="https://github.com/user-attachments/assets/a7bbce26-5102-4a92-a311-f5782c5fb269" /> </div>
+
+---
+
 # Materia
 
 Desarrollo de Aplicaciones Web
@@ -213,7 +233,3 @@ Desarrollo de Aplicaciones Web
 En desarrollo
 
 ---
-
-# Licencia
-
-Proyecto académico desarrollado con fines educativos.
