@@ -9,7 +9,7 @@ import {
 
 const auth = getAuth(app);
 
-function Login() {
+function Login({ setUser }) {
 
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
@@ -18,13 +18,14 @@ function Login() {
 
         try {
 
-            await signInWithEmailAndPassword(
-                auth,
-                email,
-                password
-            );
+            const userCredential =
+                await signInWithEmailAndPassword(
+                    auth,
+                    email,
+                    password
+                );
 
-            alert("Login correcto");
+            setUser(userCredential.user);
 
         } catch (error) {
 
